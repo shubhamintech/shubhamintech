@@ -4,6 +4,14 @@
 
 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
 
+I am a results-driven **Full-Stack Developer** with expertise in designing, developing, and deploying scalable web applications.  
+- 💻 Skilled in **frontend technologies**: React, Angular, Bootstrap, HTML5, CSS3, JavaScript, and jQuery.  
+- ⚙️ Experienced in **backend development** using Node.js, Express, PHP, Laravel, and CakePHP.  
+- 🗄️ Strong background in **databases**: MySQL, PostgreSQL, and MongoDB.  
+- ☁️ Hands-on with **cloud platforms & services** including AWS and Firebase.  
+- 🚀 Passionate about **system design, performance optimization, and clean architecture**.  
+- 🔍 Constantly exploring new tools and frameworks to deliver efficient and innovative solutions.  
+
 ---
 
 ## 🔧 Technologies & Tools  
