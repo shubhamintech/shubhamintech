@@ -71,7 +71,7 @@ I am a results-driven **Full-Stack Developer** with expertise in designing, deve
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhamintech/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome)](YOUR-PORTFOLIO-LINK)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)  
 
